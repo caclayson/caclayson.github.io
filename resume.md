@@ -3,7 +3,7 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+Associate Director for Research Strategies
 
 ## Education
 
